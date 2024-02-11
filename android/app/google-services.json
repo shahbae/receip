@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "652326584866",
+    "firebase_url": "https://my-auth-b0dc2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-auth-b0dc2",
+    "storage_bucket": "my-auth-b0dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652326584866:android:f04400e8f3dfbf22bf007b",
+        "android_client_info": {
+          "package_name": "com.example.golekkerjo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsUi9mnoWiiyApSZIliyzz0PgIJ04kGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652326584866:android:f09c7e2d0f43d449bf007b",
+        "android_client_info": {
+          "package_name": "com.example.receipnesia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsUi9mnoWiiyApSZIliyzz0PgIJ04kGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652326584866:android:f73df5ef6c3f1efcbf007b",
+        "android_client_info": {
+          "package_name": "com.example.sanberappflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsUi9mnoWiiyApSZIliyzz0PgIJ04kGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
